@@ -1,0 +1,13 @@
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Computron\bin\Debug\netcoreapp3.1\Computron.exe
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Computron\bin\Debug\netcoreapp3.1\Computron.deps.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Computron\bin\Debug\netcoreapp3.1\Computron.runtimeconfig.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Computron\bin\Debug\netcoreapp3.1\Computron.runtimeconfig.dev.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Computron\bin\Debug\netcoreapp3.1\Computron.dll
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Computron\bin\Debug\netcoreapp3.1\Computron.pdb
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Computron\obj\Debug\netcoreapp3.1\Computron.csprojAssemblyReference.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Computron\obj\Debug\netcoreapp3.1\Computron.AssemblyInfoInputs.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Computron\obj\Debug\netcoreapp3.1\Computron.AssemblyInfo.cs
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Computron\obj\Debug\netcoreapp3.1\Computron.csproj.CoreCompileInputs.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Computron\obj\Debug\netcoreapp3.1\Computron.dll
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Computron\obj\Debug\netcoreapp3.1\Computron.pdb
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Computron\obj\Debug\netcoreapp3.1\Computron.genruntimeconfig.cache

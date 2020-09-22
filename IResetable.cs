@@ -4,5 +4,8 @@ using System;
 
 namespace Computron
 {
-
+    interface IResetable
+    {
+        void Reset();
+    }
 }

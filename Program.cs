@@ -10,8 +10,20 @@
             tdl.Add("Invite friends");
             tdl.Add("Buy decorations");
             tdl.Add("Party");
+            tdl.Add("Eat");
+            tdl.Add("Sleep");
+            tdl.Add("Code");
+
+            tdl.Display();
+            tdl.Reset();
+            tdl.Display();
 
             PasswordManager pm = new PasswordManager("iluvpie", true);
+            pm.Display();
+            pm.Reset();
+            pm.Display();
+            pm.ChangePassword("", "ILuvCake");
+            pm.Display();
         }
     }
 }
